@@ -28,7 +28,7 @@ public class LuxuryBag
         Price = price;
         Material = "Leather"; 
         IsLimitedEdition = false;
-        Color = "Pink"; //
+        Color = "Pink"; 
     }
 
 
